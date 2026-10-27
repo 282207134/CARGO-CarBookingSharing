@@ -1,0 +1,253 @@
+{
+  "document": "CARGO - Car Booking & Sharing App",
+  "page": {
+    "id": "0:1",
+    "name": "👁 Components Overview"
+  },
+  "designSize": {
+    "width": 375,
+    "height": 812
+  },
+  "screens": [
+    {
+      "number": 1,
+      "page": "splash",
+      "title": "Splash Screen",
+      "pixsoNode": "0:2",
+      "screenshot": "screenshots/01-splash.png",
+      "reference": "design-reference/01.png"
+    },
+    {
+      "number": 2,
+      "page": "signUp",
+      "title": "Sign Up",
+      "pixsoNode": "0:31",
+      "screenshot": "screenshots/02-signUp.png",
+      "reference": "design-reference/02.png"
+    },
+    {
+      "number": 3,
+      "page": "signUpFilled",
+      "title": "Sign Up · Input",
+      "pixsoNode": "0:109",
+      "screenshot": "screenshots/03-signUpFilled.png",
+      "reference": "design-reference/03.png"
+    },
+    {
+      "number": 4,
+      "page": "country",
+      "title": "Select a country",
+      "pixsoNode": "0:191",
+      "screenshot": "screenshots/04-country.png",
+      "reference": "design-reference/04.png"
+    },
+    {
+      "number": 5,
+      "page": "login",
+      "title": "Log In",
+      "pixsoNode": "0:223",
+      "screenshot": "screenshots/05-login.png",
+      "reference": "design-reference/05.png"
+    },
+    {
+      "number": 6,
+      "page": "forgot",
+      "title": "Forgot Password",
+      "pixsoNode": "0:284",
+      "screenshot": "screenshots/06-forgot.png",
+      "reference": "design-reference/06.png"
+    },
+    {
+      "number": 7,
+      "page": "verify",
+      "title": "Verify phone number",
+      "pixsoNode": "0:316",
+      "screenshot": "screenshots/07-verify.png",
+      "reference": "design-reference/07.png"
+    },
+    {
+      "number": 8,
+      "page": "location",
+      "title": "Enable Location",
+      "pixsoNode": "0:355",
+      "screenshot": "screenshots/08-location.png",
+      "reference": "design-reference/08.png"
+    },
+    {
+      "number": 9,
+      "page": "home",
+      "title": "Home",
+      "pixsoNode": "0:394",
+      "screenshot": "screenshots/09-home.png",
+      "reference": "design-reference/09.png"
+    },
+    {
+      "number": 10,
+      "page": "destination",
+      "title": "Choose a Destination",
+      "pixsoNode": "0:452",
+      "screenshot": "screenshots/10-destination.png",
+      "reference": "design-reference/10.png"
+    },
+    {
+      "number": 11,
+      "page": "mapDestination",
+      "title": "Set Destination on Map",
+      "pixsoNode": "0:543",
+      "screenshot": "screenshots/11-mapDestination.png",
+      "reference": "design-reference/11.png"
+    },
+    {
+      "number": 12,
+      "page": "favorites",
+      "title": "My favorites",
+      "pixsoNode": "0:591",
+      "screenshot": "screenshots/12-favorites.png",
+      "reference": "design-reference/12.png"
+    },
+    {
+      "number": 13,
+      "page": "addPlace",
+      "title": "Add new place",
+      "pixsoNode": "0:674",
+      "screenshot": "screenshots/13-addPlace.png",
+      "reference": "design-reference/13.png"
+    },
+    {
+      "number": 14,
+      "page": "service",
+      "title": "Select Service",
+      "pixsoNode": "0:742",
+      "screenshot": "screenshots/14-service.png",
+      "reference": "design-reference/14.png"
+    },
+    {
+      "number": 15,
+      "page": "serviceFull",
+      "title": "Select Service · Full view",
+      "pixsoNode": "0:919",
+      "screenshot": "screenshots/15-serviceFull.png",
+      "reference": "design-reference/15.png"
+    },
+    {
+      "number": 16,
+      "page": "promo",
+      "title": "Add promo code",
+      "pixsoNode": "0:1040",
+      "screenshot": "screenshots/16-promo.png",
+      "reference": "design-reference/16.png"
+    },
+    {
+      "number": 17,
+      "page": "payment",
+      "title": "Payment Methods",
+      "pixsoNode": "0:1232",
+      "screenshot": "screenshots/17-payment.png",
+      "reference": "design-reference/17.png"
+    },
+    {
+      "number": 18,
+      "page": "addCard",
+      "title": "Add credit card",
+      "pixsoNode": "0:1302",
+      "screenshot": "screenshots/18-addCard.png",
+      "reference": "design-reference/18.png"
+    },
+    {
+      "number": 19,
+      "page": "scanCard",
+      "title": "Scan credit card",
+      "pixsoNode": "0:1390",
+      "screenshot": "screenshots/19-scanCard.png",
+      "reference": "design-reference/19.png"
+    },
+    {
+      "number": 20,
+      "page": "pickup",
+      "title": "Pick-up Time",
+      "pixsoNode": "0:1416",
+      "screenshot": "screenshots/20-pickup.png",
+      "reference": "design-reference/20.png"
+    },
+    {
+      "number": 21,
+      "page": "processing",
+      "title": "Processing booking",
+      "pixsoNode": "0:1649",
+      "screenshot": "screenshots/21-processing.png",
+      "reference": "design-reference/21.png"
+    },
+    {
+      "number": 22,
+      "page": "driver",
+      "title": "Driver coming",
+      "pixsoNode": "0:1784",
+      "screenshot": "screenshots/22-driver.png",
+      "reference": "design-reference/22.png"
+    },
+    {
+      "number": 23,
+      "page": "driverFull",
+      "title": "Driver coming · Full view",
+      "pixsoNode": "0:1900",
+      "screenshot": "screenshots/23-driverFull.png",
+      "reference": "design-reference/23.png"
+    },
+    {
+      "number": 24,
+      "page": "driverPayment",
+      "title": "Driver coming · Payment",
+      "pixsoNode": "0:2066",
+      "screenshot": "screenshots/24-driverPayment.png",
+      "reference": "design-reference/24.png"
+    },
+    {
+      "number": 25,
+      "page": "cancel",
+      "title": "Cancel ride",
+      "pixsoNode": "0:2246",
+      "screenshot": "screenshots/25-cancel.png",
+      "reference": "design-reference/25.png"
+    },
+    {
+      "number": 26,
+      "page": "rating",
+      "title": "Rating",
+      "pixsoNode": "0:2349",
+      "screenshot": "screenshots/26-rating.png",
+      "reference": "design-reference/26.png"
+    },
+    {
+      "number": 27,
+      "page": "tip",
+      "title": "Add a tip",
+      "pixsoNode": "0:2439",
+      "screenshot": "screenshots/27-tip.png",
+      "reference": "design-reference/27.png"
+    },
+    {
+      "number": 28,
+      "page": "menu",
+      "title": "Menu",
+      "pixsoNode": "0:2539",
+      "screenshot": "screenshots/28-menu.png",
+      "reference": "design-reference/28.png"
+    },
+    {
+      "number": 29,
+      "page": "profile",
+      "title": "My Profile",
+      "pixsoNode": "0:2552",
+      "screenshot": "screenshots/29-profile.png",
+      "reference": "design-reference/29.png"
+    },
+    {
+      "number": 30,
+      "page": "trips",
+      "title": "My trips",
+      "pixsoNode": "0:2627",
+      "screenshot": "screenshots/30-trips.png",
+      "reference": "design-reference/30.png"
+    }
+  ]
+}

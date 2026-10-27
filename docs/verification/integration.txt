@@ -1,0 +1,120 @@
+Resolving dependencies...
+Downloading packages...
+  clock 1.1.2 (1.1.3 available)
+  matcher 0.12.19 (0.12.20 available)
+  material_color_utilities 0.13.0 (0.13.1 available)
+  meta 1.17.0 (1.19.0 available)
+  platform 3.1.6 (3.2.0 available)
+  stack_trace 1.12.1 (1.12.2 available)
+  test_api 0.7.10 (0.7.15 available)
+  vector_math 2.2.0 (2.4.4 available)
+  web 1.1.1 (1.1.2 available)
+Got dependencies!
+9 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+Running Gradle task 'assembleDebug'...                              5.9s
+✓ Built build/app/outputs/flutter-apk/app-debug.apk
+Installing build/app/outputs/flutter-apk/app-debug.apk...          516ms
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+VMServiceFlutterDriver: Connecting to Flutter application at http://127.0.0.1:51658/CK7hdAUbRxg=/
+VMServiceFlutterDriver: Isolate found with number: 3362451713862931
+VMServiceFlutterDriver: Isolate 3362451713862931 is runnable.
+VMServiceFlutterDriver: Isolate is paused at start.
+VMServiceFlutterDriver: Attempting to resume isolate
+I/flutter ( 4064): 00:00 +0: Capture all 30 implemented screens on Android
+VMServiceFlutterDriver: Connected to Flutter application.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/EGL_emulation( 4064): app_time_stats: avg=603.09ms min=378.04ms max=718.75ms count=3
+D/EGL_emulation( 4064): app_time_stats: avg=769.96ms min=480.70ms max=1075.79ms count=3
+D/EGL_emulation( 4064): app_time_stats: avg=358.90ms min=151.69ms max=754.09ms count=3
+D/ProfileInstaller( 4064): Installing profile for com.cargo.cargo
+D/EGL_emulation( 4064): app_time_stats: avg=899.47ms min=880.48ms max=918.46ms count=2
+VMServiceFlutterDriver: request_data message is taking a long time to complete...
+D/EGL_emulation( 4064): app_time_stats: avg=528.82ms min=129.88ms max=732.07ms count=3
+D/EGL_emulation( 4064): app_time_stats: avg=850.68ms min=834.24ms max=867.12ms count=2
+D/EGL_emulation( 4064): app_time_stats: avg=420.94ms min=103.28ms max=728.25ms count=4
+D/EGL_emulation( 4064): app_time_stats: avg=842.97ms min=837.03ms max=848.92ms count=2
+W/com.cargo.cargo( 4064): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.cargo.cargo( 4064): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4064): app_time_stats: avg=418.35ms min=109.60ms max=730.55ms count=4
+D/EGL_emulation( 4064): app_time_stats: avg=874.27ms min=832.96ms max=915.59ms count=2
+D/EGL_emulation( 4064): app_time_stats: avg=335.23ms min=94.97ms max=717.70ms count=3
+D/EGL_emulation( 4064): app_time_stats: avg=536.98ms min=172.40ms max=725.28ms count=3
+D/EGL_emulation( 4064): app_time_stats: avg=849.53ms min=817.05ms max=882.02ms count=2
+W/com.cargo.cargo( 4064): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.cargo.cargo( 4064): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4064): app_time_stats: avg=334.14ms min=113.03ms max=732.16ms count=3
+D/EGL_emulation( 4064): app_time_stats: avg=874.75ms min=851.38ms max=898.12ms count=2
+W/com.cargo.cargo( 4064): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.cargo.cargo( 4064): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4064): app_time_stats: avg=542.30ms min=195.45ms max=734.00ms count=3
+D/EGL_emulation( 4064): app_time_stats: avg=883.36ms min=882.83ms max=883.90ms count=2
+D/EGL_emulation( 4064): app_time_stats: avg=425.81ms min=107.93ms max=733.70ms count=4
+D/EGL_emulation( 4064): app_time_stats: avg=824.19ms min=818.77ms max=829.62ms count=2
+W/com.cargo.cargo( 4064): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.cargo.cargo( 4064): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4064): app_time_stats: avg=410.66ms min=92.88ms max=716.97ms count=4
+D/EGL_emulation( 4064): app_time_stats: avg=650.76ms min=581.56ms max=719.95ms count=2
+D/EGL_emulation( 4064): app_time_stats: avg=1059.83ms min=817.60ms max=1302.07ms count=2
+D/EGL_emulation( 4064): app_time_stats: avg=352.36ms min=165.73ms max=718.64ms count=3
+D/EGL_emulation( 4064): app_time_stats: avg=882.58ms min=881.57ms max=883.60ms count=2
+D/EGL_emulation( 4064): app_time_stats: avg=534.59ms min=169.85ms max=717.81ms count=3
+D/EGL_emulation( 4064): app_time_stats: avg=874.56ms min=849.29ms max=899.83ms count=2
+D/EGL_emulation( 4064): app_time_stats: avg=429.08ms min=129.21ms max=728.54ms count=4
+D/EGL_emulation( 4064): app_time_stats: avg=876.36ms min=850.26ms max=902.47ms count=2
+D/EGL_emulation( 4064): app_time_stats: avg=350.04ms min=157.14ms max=712.10ms count=3
+D/EGL_emulation( 4064): app_time_stats: avg=531.43ms min=147.93ms max=724.30ms count=3
+D/EGL_emulation( 4064): app_time_stats: avg=873.73ms min=865.84ms max=881.61ms count=2
+W/com.cargo.cargo( 4064): ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+W/com.cargo.cargo( 4064): ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+D/EGL_emulation( 4064): app_time_stats: avg=338.93ms min=133.23ms max=727.61ms count=3
+D/EGL_emulation( 4064): app_time_stats: avg=867.43ms min=851.09ms max=883.76ms count=2
+D/EGL_emulation( 4064): app_time_stats: avg=340.97ms min=97.31ms max=715.54ms count=3
+I/ImeTracker( 4064): com.cargo.cargo:ef137ea8: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+D/InputMethodManager( 4064): showSoftInput() view=io.flutter.embedding.android.FlutterView{415ab85 VFE...... .F....ID 0,0-750,1624 #1 aid=1073741824} flags=0 reason=SHOW_SOFT_INPUT
+I/ImeTracker( 4064): com.cargo.cargo:580402e2: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+D/InputMethodManager( 4064): showSoftInput() view=io.flutter.embedding.android.FlutterView{415ab85 VFE...... .F....ID 0,0-750,1624 #1 aid=1073741824} flags=0 reason=SHOW_SOFT_INPUT
+I/AssistStructure( 4064): Flattened final assist data: 492 bytes, containing 1 windows, 3 views
+D/InputConnectionAdaptor( 4064): The input method toggled cursor monitoring on
+I/ImeTracker( 4064): com.cargo.cargo:4751a956: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT fromUser false
+D/InsetsController( 4064): show(ime(), fromIme=true)
+D/InsetsController( 4064): show(ime(), fromIme=true)
+I/ImeTracker( 4064): com.cargo.cargo:580402e2: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+W/InteractionJankMonitor( 4064): Initializing without READ_DEVICE_CONFIG permission. enabled=true, interval=1, missedFrameThreshold=3, frameTimeThreshold=64, package=com.cargo.cargo
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/InsetsController( 4064): hide(ime(), fromIme=true)
+I/ImeTracker( 4064): com.cargo.cargo:ef137ea8: onCancelled at PHASE_CLIENT_ANIMATION_CANCEL
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+W/WindowOnBackDispatcher( 4064): sendCancelIfRunning: isInProgress=false callback=ImeCallback=ImeOnBackInvokedCallback@44496297 Callback=android.window.IOnBackInvokedCallback$Stub$Proxy@4e11819
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/EGL_emulation( 4064): app_time_stats: avg=31.50ms min=0.75ms max=433.70ms count=24
+I/ImeTracker( 4064): com.cargo.cargo:206855ff: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT_ON_ANIMATION_STATE_CHANGED fromUser false
+I/ImeTracker( 4064): com.cargo.cargo:4751a956: onHidden
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/FlutterJNI( 4064): Sending viewport metrics to the engine.
+D/EGL_emulation( 4064): app_time_stats: avg=112.49ms min=9.10ms max=923.68ms count=12
+I/flutter ( 4064): 00:28 +1: (tearDownAll)
+I/flutter ( 4064): 00:29 +2: All tests passed!
+All tests passed.
